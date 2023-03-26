@@ -1,5 +1,8 @@
 # CRUDWinforms
 Бета-версия Курсовой работы + БД
+Программа была сделана при помощи:
+1)Microsoft Visual Studio 2019
+2)Microsoft SQL Server
 
 Главная страница
 ![Главная](https://user-images.githubusercontent.com/104216804/227777311-1fa1ad6b-d559-4f61-8791-e4c41308f341.PNG)
